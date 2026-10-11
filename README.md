@@ -28,3 +28,12 @@ Akun demo setelah import schema:
 
 - Email: `admin@mail.com`
 - Password: `123456`
+
+File ENV:
+PORT=3000
+DB_HOST=localhost
+DB_PORT=3308
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=muslim_daily
+ALADHAN_METHOD=20
