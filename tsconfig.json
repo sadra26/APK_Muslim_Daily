@@ -3,6 +3,6 @@
   "compilerOptions": {
     "types": ["jest"]
   },
-  "include": ["**/*.ts", "**/*.tsx"],
+  "include": ["**/*.ts", "**/*.tsx", "src/components/button.jsx", "src/components/input.jsx", "src/auth/loginPage.jsx", "src/auth/registerPage.jsx", "App.jsx", "src/page/homePage.jsx"],
   "exclude": ["**/node_modules", "**/Pods"]
 }
